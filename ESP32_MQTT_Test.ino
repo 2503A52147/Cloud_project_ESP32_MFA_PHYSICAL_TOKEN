@@ -9,8 +9,8 @@
 #include "secrets.h"
 
 // ========== Wi-Fi ==========
-const char* WIFI_SSID = "Arun@03";
-const char* WIFI_PASSWORD = "Nithran@03";
+const char* WIFI_SSID = "Your wifi name";
+const char* WIFI_PASSWORD = "Your wifi password";
 
 // ========== AWS IoT Core ==========
 const char* AWS_IOT_ENDPOINT =
