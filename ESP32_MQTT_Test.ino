@@ -14,7 +14,7 @@ const char* WIFI_PASSWORD = "Your wifi password";
 
 // ========== AWS IoT Core ==========
 const char* AWS_IOT_ENDPOINT =
-  "a143mfu0pp3ixq-ats.iot.us-east-1.amazonaws.com";
+  "replace your aws end point here";
 
 const char* MQTT_CLIENT_ID = "ESP32_MFA_Token";
 const char* MQTT_TOPIC = "esp32/mfa/otp";
